@@ -3,7 +3,7 @@
 
 Thank you for your interest in contributing to the Mario Progress Bar ! Please read, understand, and agree to the following before making your contribution. Please also ensure you have read and agreed to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-If you have any issues or questions, please, do not hesitate to contact [the maintainer](https://github.com/KikiManjaro) of this plugin.
+If you have any issues or questions, please, do not hesitate to contact [the maintainer](https://github.com/hemeroc) of this plugin.
 
 ## Workflow
 

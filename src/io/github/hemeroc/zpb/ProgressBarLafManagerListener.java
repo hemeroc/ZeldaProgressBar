@@ -1,3 +1,5 @@
+package io.github.hemeroc.zpb;
+
 import com.intellij.ide.ui.LafManager;
 import com.intellij.ide.ui.LafManagerListener;
 import org.jetbrains.annotations.NotNull;
@@ -16,7 +18,7 @@ public class ProgressBarLafManagerListener implements LafManagerListener {
     }
 
     private static void updateProgressBarUI() {
-        UIManager.put("ProgressBarUI", ProgressBarUi.class.getName());
-        UIManager.getDefaults().put(ProgressBarUi.class.getName(), ProgressBarUi.class);
+        UIManager.put("ProgressBarUI", ProgressBarUI.class.getName());
+        UIManager.getDefaults().put(ProgressBarUI.class.getName(), ProgressBarUI.class);
     }
 }
